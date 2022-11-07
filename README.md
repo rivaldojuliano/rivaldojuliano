@@ -9,6 +9,6 @@
 - ⚡ Fun fact: ...
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src=https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" /></a>
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://seeklogo.com/images/K/kotlin-logo-6A9E0484CA-seeklogo.com.png" /></a>
   <br>
   <br
