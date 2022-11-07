@@ -8,3 +8,4 @@
   [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/103666064181095934220)&nbsp;
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=purple)&nbsp;
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-FFFFFF.svg?style=flat&logo=intellij-idea&logoColor=black)&nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-FFFFFF.svg?style=flat&logo=figma)&nbsp;
