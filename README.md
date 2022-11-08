@@ -9,3 +9,8 @@
   ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=purple)&nbsp;
   ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-FFFFFF.svg?style=flat&logo=intellij-idea&logoColor=black)&nbsp;
   ![Figma](https://img.shields.io/badge/Figma-FFFFFF.svg?style=flat&logo=figma)&nbsp;
+  
+  #### Connect with me!
+  
+<a href="https://www.instagram.com/rivaldojuliano_/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rivaldojuliano/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
