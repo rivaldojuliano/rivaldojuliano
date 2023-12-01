@@ -1,23 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rivaldo Juliano</h1>
+<h3 align="center">A passionate Software Engineer (Mobile Development)</h3>
 
-- 🌱 I’m currently learning Mobile Development & Backend Development
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rivaldojuliano&label=Profile%20views&color=0e75b6&style=flat" alt="rivaldojuliano" /> </p>
 
-## 🛠 Tech Stack
-  [![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)](https://git-scm.com/)&nbsp;
-  [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/rivaldojuliano/)&nbsp;
-  [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developers.google.com/profile/u/103666064181095934220)&nbsp;
-  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=purple)&nbsp;
-  ![Intellij IDEA Ultimate](https://img.shields.io/badge/IntelliJ%20IDEA%20Ultimate-FFFFFF.svg?style=flat&logo=intellij-idea&logoColor=black)&nbsp;
-  ![Figma](https://img.shields.io/badge/Figma-FFFFFF.svg?style=flat&logo=figma)&nbsp;
-  
-  #### Connect with me!
-  
-<a href="https://www.instagram.com/rivaldojuliano_/" target="_blank" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/rivaldo-juliano-a896a0188/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 🌱 I’m currently learning **Mobile Development**
 
+- 💬 Ask me about **Kotlin**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/rivaldojuliano">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rivaldojuliano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rivaldojuliano&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<a href="https://instagram.com/rivaldojuliano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rivaldojuliano" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rivaldojuliano&show_icons=true&locale=en" alt="rivaldojuliano" /></p>
