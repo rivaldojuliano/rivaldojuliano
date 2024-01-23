@@ -6,8 +6,6 @@
 
 <h3 align="center">A passionate Software Engineer (Mobile Development)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rivaldojuliano&label=Profile%20views&color=0e75b6&style=flat" alt="rivaldojuliano" /> </p>
-
 - 🌱 I’m currently learning **Mobile Development**
 
 - 💬 Ask me about **Kotlin**
