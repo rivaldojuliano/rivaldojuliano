@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Rivaldo Juliano</h1>
+### Hi there 👋
 
-<div align="center">
-  <img height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"  />
-</div>
+As a Computer Science graduate from Nusa Mandiri University with one year of experience in backend engineering, I have developed a strong foundation in software engineering, cloud computing, and system design. I'm currently learning about cloud computing and system design. With hard and soft skills, I have learned, used, and polished over the last few years, I would like to pursue and deep dive even further as a software engineer.
 
-<h3 align="center">A passionate Software Engineer (Mobile Development)</h3>
+- 🌱 Back-end and Cloud Computing Enthusiast
+- 💬 Ask me about Golang
+- ☕ I'm a coffee lover
 
-- 🌱 I’m currently learning **Mobile Development**
-
-- 💬 Ask me about **Kotlin**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
 <p align="left">
-<a href="https://github.com/rivaldojuliano">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rivaldojuliano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/robertheo15">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rivaldojjuliano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rivaldojuliano&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rivaldo-juliano-a896a0188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rivaldo-juliano-a896a0188" height="30" width="40" /></a>
-<a href="https://instagram.com/rivaldojuliano_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rivaldojuliano_" height="30" width="40" /></a>
-</p>
+### Reach me on
+- <a href="https://www.linkedin.com/in/rivaldojuliano/" target="_blank">LinkedIn</a>
+- vlado11jr@gmail.com
+
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--!>
